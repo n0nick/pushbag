@@ -4,7 +4,7 @@ TFILE=`mktemp /tmp/pushbag.XXXX`
 cp ./README.md $TFILE
 
 git checkout gh-pages
-$POSTFILE=`ls ./_posts/ | head -1`
+POSTFILE=`ls ./_posts/ | head -1`
 
 cp $TFILE ./_posts/$POSTFILE
 git add .
