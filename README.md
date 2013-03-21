@@ -1,6 +1,6 @@
 # I'm the Pushbag!
 
-## Pushbag rules
+## The Pushbag Rules
 
 You put one NIS coin in the jar if you are guilty of either of the following:
 
